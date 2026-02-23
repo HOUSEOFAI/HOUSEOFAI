@@ -9,7 +9,7 @@ HOUSE OF AI™ architects AI infrastructure systems including agent architecture
 We architect:
 - Boutique GPT systems
 - Agent architectures
-- AEO & visibility infrastructure
+- Answer Engine Optimization & visibility infrastructure
 - Sovereign automation frameworks
 
 ---
