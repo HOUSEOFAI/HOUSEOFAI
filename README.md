@@ -1,9 +1,9 @@
 # HOUSE OF AI™
-### Boston · Ethical AI · Sovereign Automation · Women-Led Infrastructure 
+Boston · AI Infrastructure · Ethical AI · Sovereign Automation · Women-Led Businesses
+AI infrastructure systems and authority architecture for women-led businesses.
+## AI Infrastructure Systems
 
-AI infrastructure for women-led businesses.  
-
-We design:
+HOUSE OF AI™ architects AI infrastructure systems including agent architecture, authority hubs, Answer Engine Optimization (AEO), and sovereign automation frameworks for women-led businesses.We architect:
 - Boutique GPT systems
 - Agent architectures
 - AEO & visibility infrastructure
