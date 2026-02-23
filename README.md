@@ -1,5 +1,8 @@
 # HOUSE OF AI™
-
+![Boston](https://img.shields.io/badge/Boston-AI%20Authority-1F4E5F)
+![Ethical AI](https://img.shields.io/badge/Ethical-Sovereign%20AI-3A7D44)
+![Women-Led](https://img.shields.io/badge/For-Women%20Founders-6A5ACD)
+![Infrastructure](https://img.shields.io/badge/Focus-AI%20Infrastructure-C9A227)
 AI infrastructure for women-led businesses.  
 Boston • Ethical AI • Sovereign Automation
 
