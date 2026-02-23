@@ -1,5 +1,5 @@
 # HOUSE OF AI™
-Boston · Ethical AI · Sovereign Automation · Women-Led Infrastructure 
+### Boston · Ethical AI · Sovereign Automation · Women-Led Infrastructure 
 
 AI infrastructure for women-led businesses.  
 
