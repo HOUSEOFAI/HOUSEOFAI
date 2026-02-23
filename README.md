@@ -1,6 +1,7 @@
 # HOUSE OF AI™
 
-Ethical AI infrastructure for women-led businesses.
+AI infrastructure for women-led businesses.  
+Boston • Ethical AI • Sovereign Automation
 
 We design:
 - Boutique GPT systems
