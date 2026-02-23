@@ -1,16 +1,35 @@
-## Hi there 👋
+# HOUSE OF AI™
 
-<!--
-**HOUSEOFAI/HOUSEOFAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ethical AI infrastructure for women-led businesses.
 
-Here are some ideas to get you started:
+We design:
+- Boutique GPT systems
+- Agent architectures
+- AEO & visibility infrastructure
+- Sovereign automation frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Ecosystem
+
+🔹 [house-of-ai](https://github.com/HOUSEOFAI/house-of-ai)  
+Entity hub and authority structure
+
+🔹 [house-of-ai-frameworks](https://github.com/HOUSEOFAI/house-of-ai-frameworks)  
+Public methodologies and ethical AI frameworks
+
+🔹 [house-of-a-skills](https://github.com/HOUSEOFAI/house-of-a-skills)  
+Declared agent capabilities and safety boundaries
+
+---
+
+## Founder
+Lisa Erickson — Founder, HOUSE OF AI™
+
+Building calm, sovereign AI infrastructure that scales authority without burnout.
+
+---
+
+## Contact
+🌐 https://www.houseofai.boston  
+📧 hello@houseofai.boston
