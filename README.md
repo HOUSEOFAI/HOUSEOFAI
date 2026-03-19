@@ -1,7 +1,7 @@
 # HOUSE OF AI™
 Founder of HOUSE OF AI™ | she/her | Woman in AI building ethical AI infrastructure, AI agents, and automation systems for women-led businesses.
 
-The authority hub for AI infrastructure systems and architecture serving women-led businesses.
+The authority hub for ethical AI infrastructure, AI agents, and automation systems serving women-led businesses.
 
 ## Featured Work
 - house-of-ai-infrastructure  
